@@ -42,8 +42,8 @@ How to Use
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/weather-web-app.git
-cd weather-web-app
+git clone https://github.com/shammuse/Wetherapp.git
+cd wetherapp
 
 Set Up API Key:
 
